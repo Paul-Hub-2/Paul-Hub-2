@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Python 
 - 🌱 I’m currently learning ... Python 
 - 💞️ I’m looking to collaborate on ... Python Developing
-- 📫 How to reach me ...anyorpaulterfa60@Gmail.com
+- 📫 How to reach me ...anyorpaulterfa60@gmail.com
 
 <!---
 Paul-Hub-2/Paul-Hub-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
